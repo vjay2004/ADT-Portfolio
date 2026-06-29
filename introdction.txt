@@ -1,0 +1,9 @@
+Hello!
+
+My name is Vjay Edrian Suyman.
+I am currently studying Bachelor of Science in Information Technology.
+
+This repository is created for my Application Development laboratory activity.
+I am learning how to use Git and GitHub for version control and project management.
+
+Thank you!
