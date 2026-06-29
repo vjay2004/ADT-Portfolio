@@ -1,11 +1,8 @@
 ADT-Portfolio
 
-Student Information
-
+Student Information  
 Student Name: Vjay Edrian Suyman 
-
 Course: Bachelor of Science in Information Technology (BSIT)
-
 Section: CCS067/CCS074
 
 
