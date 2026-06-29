@@ -1,8 +1,8 @@
 ADT-Portfolio
 
 Student Information  
-Student Name: Vjay Edrian Suyman 
-Course: Bachelor of Science in Information Technology (BSIT)
+Student Name: Vjay Edrian Suyman     
+Course: Bachelor of Science in Information Technology (BSIT)  
 Section: CCS067/CCS074
 
 
@@ -33,5 +33,5 @@ Skills
 
 Contact
 
-Email: vjayedrianomayao.suyman@my.smciligan.edu.ph
+Email: vjayedrianomayao.suyman@my.smciligan.edu.ph  
 GitHub: https://github.com/vjay2004
